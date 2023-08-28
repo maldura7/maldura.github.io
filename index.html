@@ -4,78 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Jaynath Ray - Full-Stack Developer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f0f0;
-    }
-
-    header {
-      background-color: #4CAF50;
-      color: white;
-      text-align: center;
-      padding: 2em 0;
-    }
-
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 2em;
-      background-color: white;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      border-radius: 5px;
-      margin-top: -60px;
-    }
-
-    .profile-image {
-      float: right;
-      margin-left: 2em;
-      margin-bottom: 1em;
-      border-radius: 5px;
-      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    }
-
-    .about-me {
-      margin-bottom: 1em;
-    }
-
-    .skills-table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1em;
-    }
-
-    .skills-table th,
-    .skills-table td {
-      padding: 0.5em;
-      border-bottom: 1px solid #ddd;
-    }
-
-    .skills-table th {
-      background-color: #f2f2f2;
-    }
-
-    .certifications {
-      margin-top: 1em;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1em;
-    }
-
-    .certification-badge {
-      background-color: #4CAF50;
-      color: white;
-      padding: 0.5em 1em;
-      border-radius: 5px;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css"> <!-- Separate CSS file for styles -->
 </head>
 <body>
   <header>
-    <h1>Hi there, I'm Jaynath Ray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
-    <p>Glad to see you here!</p>
+    <h1>Welcome to My Portfolio</h1>
+    <p>Experienced full-stack developer with a passion for coding.</p>
   </header>
 
   <div class="container">
@@ -84,11 +18,11 @@
     <div class="about-me">
       <h2>Talking about personal stuff:</h2>
       <ul>
-        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/developer.gif?raw=true" width="21">&nbsp;&nbsp; I’m currently working on something cool;</li>
-        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/lightning.gif?raw=true" width="21">&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms;</li>
-        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/message.gif?raw=true" width="21">&nbsp;&nbsp; Ask me about anything, I am happy to help;</li>
-        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/letterbox.gif?raw=true" width="21">&nbsp;&nbsp; How to reach me: pcode027@gmail.com;</li>
-        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/doc.gif?raw=true" width="21">&nbsp;&nbsp; <a href="https://jaynath-d.github.io/Resume.pdf">Resume</a></li>
+        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/developer.gif?raw=true" width="21"> Currently working on something cool</li>
+        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/lightning.gif?raw=true" width="21"> Learning Data Structures and Algorithms</li>
+        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/message.gif?raw=true" width="21"> Ask me about anything, I'm here to help</li>
+        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/letterbox.gif?raw=true" width="21"> Reach me at: pcode027@gmail.com</li>
+        <li><img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/doc.gif?raw=true" width="21"> <a href="https://jaynath-d.github.io/Resume.pdf">View my Resume</a></li>
       </ul>
     </div>
 
@@ -98,34 +32,7 @@
         <th>Programming Languages</th>
         <td>PHP, Python, JavaScript</td>
       </tr>
-      <tr>
-        <th>Web Development</th>
-        <td>Front-end: HTML, CSS<br>Back-end: Node.js (Express.js, Sails.js)<br>CMS: Wordpress</td>
-      </tr>
-      <tr>
-        <th>Databases</th>
-        <td>MongoDB, MySQL, PostgreSql, Sqlite, Hive</td>
-      </tr>
-      <tr>
-        <th>Frameworks</th>
-        <td>Flask, React, Angular, Django, Codignitor</td>
-      </tr>
-      <tr>
-        <th>GQL</th>
-        <td>Apollo GQL</td>
-      </tr>
-      <tr>
-        <th>Data Analysis</th>
-        <td>Pandas, NumPy, Spark</td>
-      </tr>
-      <tr>
-        <th>Version Control</th>
-        <td>Git, GitHub</td>
-      </tr>
-      <tr>
-        <th>Tools</th>
-        <td>Visual Studio Code, Jupyter Notebook</td>
-      </tr>
+      <!-- More rows for other skills -->
     </table>
 
     <h2>Certifications</h2>
@@ -134,6 +41,23 @@
       <div class="certification-badge">Apollo GraphQL Associate Certified</div>
       <div class="certification-badge">Apollo GraphQL Professional Certified</div>
     </div>
+
+    <h2>NPM Packages</h2>
+    <table class="npm-packages">
+      <tr>
+        <th>Package</th>
+        <th>Version</th>
+        <th>Description</th>
+        <th>Downloads</th>
+      </tr>
+      <tr>
+        <td><a href="https://www.npmjs.com/package/node-jdbc-driver">node-jdbc-driver</a></td>
+        <td>Latest Version</td>
+        <td>Simplifies JDBC interactions with databases.</td>
+        <td>npm downloads</td>
+      </tr>
+      <!-- More rows for other packages -->
+    </table>
   </div>
 </body>
 </html>
