@@ -1,13 +1,18 @@
-### Hi there, I'm Jaynath Ray 👋
+### <samp>Hi there, I'm Jaynath Ray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 ### Glad to see you here! 
 
 Experienced full-stack developer with expertise in Python, React, Node, Azure, AWS, Codeigniter, core PHP, and WordPress. Knowledgeable in building and integrating ChatGPT-powered chatbots. Skilled in big data technologies like Hadoop, Hive, and Apache Spark. Familiar with workflow management using Apache Airflow and security/governance with Apache Ranger. Eager to contribute to projects and deliver prompt results. I am confident in my abilities to contribute to your projects and deliver prompt results. 
 
+<img align="right" alt="GIF" src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 ##### Talking about personal stuff:
-- 🧑 I'm currently working on something cool;
-- 🚀 I'm currently learning Data Structures and Algorithms;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: pcode27@gmail.com;
+
+- <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms;
+- <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pcode027@gmail.com;
+- <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://jaynath-d.github.io/Resume.pdf).
+</br>
 
 ## Skills
 
