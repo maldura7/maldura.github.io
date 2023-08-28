@@ -1,0 +1,67 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 2em 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2em;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-top: -60px;
+}
+
+/* ... rest of the styles ... */
+.profile-image {
+      float: right;
+      margin-left: 2em;
+      margin-bottom: 1em;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    }
+
+    .about-me {
+      margin-bottom: 1em;
+    }
+
+    .skills-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1em;
+    }
+
+    .skills-table th,
+    .skills-table td {
+      padding: 0.5em;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .skills-table th {
+      background-color: #f2f2f2;
+    }
+
+    .certifications {
+      margin-top: 1em;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1em;
+    }
+
+    .certification-badge {
+      background-color: #4CAF50;
+      color: white;
+      padding: 0.5em 1em;
+      border-radius: 5px;
+    }
