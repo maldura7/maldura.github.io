@@ -31,10 +31,12 @@ Experienced full-stack developer with expertise in Python, React, Node, Azure, A
 
 ## NPM Packages
 
-| Package Name       | Version   | Description                                       | Usage                                | Downloads   |
-|------------------- |---------- |---------------------------------------------------|-------------------------------------|-------------|
-| [node-jdbc-driver](https://www.npmjs.com/package/node-jdbc-driver)   | ![Latest Version](https://img.shields.io/github/v/release/jaynath-d/node-jdbc-driver)     | Simplifies JDBC interactions with databases.      | `npm install node-jdbc-driver`       | ![npm downloads](https://img.shields.io/npm/dw/node-jdbc-driver)|
-| [cc-suite](https://www.npmjs.com/package/cc-suite)   | ![Latest Version](https://img.shields.io/github/v/release/jaynath-d/cc-suite)     | Comprehensive toolkit for secure credit card management, validation, generation, and BIN checking.       | `npm install cc-suite`       | ![npm downloads](https://img.shields.io/npm/dw/cc-suite)|
+| Package                     | Version   | Description                             | Downloads   |
+|-----------------------------|---------- |-----------------------------------------|-------------|
+| [node-jdbc-driver](https://www.npmjs.com/package/node-jdbc-driver) | ![Latest Version](https://img.shields.io/github/v/release/jaynath-d/node-jdbc-driver) | Simplifies JDBC interactions with databases.  | ![npm downloads](https://img.shields.io/npm/dw/node-jdbc-driver)|
+| [cc-suite](https://www.npmjs.com/package/cc-suite) | ![Latest Version](https://img.shields.io/github/v/release/jaynath-d/cc-suite) | Comprehensive toolkit for secure credit card management, validation, generation, and BIN checking. | ![npm downloads](https://img.shields.io/npm/dw/cc-suite)|
+| [node-fs-utils](https://www.npmjs.com/package/node-fs-utils) | ![Latest Version](https://img.shields.io/github/v/release/jaynath-d/node-fs-utils) | Simplify file system tasks and enhance child process management. | ![npm downloads](https://img.shields.io/npm/dw/node-fs-utils)|
+| [node-api-request](https://www.npmjs.com/package/node-api-request) | ![Latest Version](https://img.shields.io/github/v/release/jaynath-d/node-api-request) | Simplified HTTP Requests in Node.js  | ![npm downloads](https://img.shields.io/npm/dw/node-api-request)|
 
 
 
