@@ -12,7 +12,7 @@ Experienced full-stack developer with expertise in Python, React, Node, Azure, A
 - <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: pcode027@gmail.com;
 - <img src="https://github.com/jaynath-d/jaynath-d/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://jaynath-d.github.io/Resume.pdf).
-</br>
+
 
 ## Skills
 
