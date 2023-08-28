@@ -11,36 +11,21 @@ Experienced full-stack developer with expertise in Python, React, Node, Azure, A
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript
+- **Programming Languages:** PHP, Python, JavaScript
 - **Web Development:**
   - Front-end: HTML, CSS
   - Back-end: Node.js (Express.js, Sails.js)
+  - CMS: Wordpress
 - **Databases:** MongoDB, MySQL, PostgreSql, Sqlite, Hive
-- **Frameworks:** Flask, React, Angular, Django
+- **Frameworks:** Flask, React, Angular, Django, Codignitor
+- **GQL:** Apollo GQL
 - **Data Analysis:** Pandas, NumPy, Spark
 - **Version Control:** Git, GitHub
 - **Tools:** Visual Studio Code, Jupyter Notebook
 
-## Work Experience
-
-### Senior [Your Job Title] - [Company Name] | [Start Date] - [End Date]
-
-- Led a team of [Number of Team Members] in [Achievement or Project].
-- Managed [Responsibilities or Tasks], resulting in [Quantifiable Result].
-- Collaborated with cross-functional teams to [Another Achievement or Project].
-- Improved [Process or Outcome], leading to [Tangible Outcome].
-- Mentored junior employees, fostering skill development and knowledge sharing.
-
-### [Your Previous Job Title] - [Previous Company] | [Start Date] - [End Date]
-
-- Contributed to [Project or Responsibility], resulting in [Achievement or Impact].
-- Streamlined [Process or Task], reducing [Efficiency Improvement].
-- Collaborated with [Team or Department] to [Collaborative Achievement].
-- Received recognition for [Accomplishment or Award].
-
 ## Certifications
 
-[![MongoDB Certified](https://img.shields.io/badge/MongoDB-Certified-brightgreen)](https://university.mongodb.com/certification)
+[![MongoDB Certified](https://img.shields.io/badge/MongoDB-Certified-brightgreen)](https://university.mongodb.com/course_completion/78d0945e-6edf-4d6c-ab6f-1cbb39d6eed8?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 [![Apollo GraphQL Associate Certified](https://img.shields.io/badge/Apollo%20GraphQL%20Associate-Certified-brightgreen)](https://www.apollographql.com/tutorials/certifications/1538d8cc-c461-49c4-95e4-884bbfb486ba)
 [![Apollo GraphQL Professional Certified](https://img.shields.io/badge/Apollo%20GraphQL%20Professional-Certified-brightgreen)](https://www.apollographql.com/tutorials/certifications/fc1eada5-829e-441a-ae1d-8d04801eee32)
 
