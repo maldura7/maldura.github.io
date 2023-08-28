@@ -1,11 +1,11 @@
 {
   "projects":[
     { 
-      "id": 1
+      "id": 1,
       "name": "Node JDBC Driver"
     },
     { 
-      "id": 2
+      "id": 2,
       "name": "Node FS Utils"
     } 
   ]
